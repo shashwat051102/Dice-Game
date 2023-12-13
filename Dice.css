@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+}
+
+
+.heading{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    color: #4ECCA3;
+    font-family: 'Silkscreen', cursive;
+    font-size: 40px;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    
+}
+
+.dice{
+    font-family: 'Silkscreen', cursive;
+    color: #4ECCA3;
+    font-size: 40px;
+    padding: 10%;
+    display: inline-block;
+}
